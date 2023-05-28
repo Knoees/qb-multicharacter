@@ -2,7 +2,7 @@
 
 Discord : https://discord.gg/PEXhhkYcW4
 
-
+fivem-appearance compatible ✔
 Works seamlessly with the fivem-appearance script, the character appears
 
 ## Dependencies
