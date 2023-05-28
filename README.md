@@ -34,8 +34,7 @@ ensure qb-apartments
 ensure qb-clothing
 ensure qb-weathersync
 ```
-"# qb-multicharacter" 
-"# qb-multicharacter" 
+
 
 Original Script : https://github.com/ST4LTH/qb-multicharacter
 
